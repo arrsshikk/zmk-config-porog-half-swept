@@ -102,7 +102,7 @@
         vim {
             bindings = <
 &kp ESCAPE  &kp COLON  &kp SLASH  &kp QUESTION  &kp BACKSLASH    &kp HOME   &kp PAGE_UP  &trans  &trans  &kp END
-&kp Q       &kp W      &trans     &trans        &trans           &kp H      &kp J        &kp K   &kp L   &kp PAGE_DOWN
+&trans      &kp W      &trans     &trans        &trans           &kp H      &kp J        &kp K   &kp L   &kp PAGE_DOWN
 &trans      &trans     &trans     &trans        &trans           &trans     &trans       &trans  &trans  &trans
                                   &kp SPACE     &kp BACKSPACE    &kp LCTRL  &kp ENTER
             >;
